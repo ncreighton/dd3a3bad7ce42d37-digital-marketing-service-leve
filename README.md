@@ -1,0 +1,2 @@
+# dd3a3bad7ce42d37-digital-marketing-service-leve
+Professional digital marketing WordPress plugin — without the professional price tag.  Fully documented admin settings panel — no code required for configuration. Regular security updates. Works with WordPress multisite.  ## What's Included  - Digital Marketing Service Level Agreement Monitor — fully configured and ready to use - Clean admin settin
